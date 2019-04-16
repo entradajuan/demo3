@@ -20,7 +20,7 @@ object ML1 {
   }
 
   def pr1(spark: SparkSession){
-    
+    import spark.implicits._
     
   }
 }
