@@ -80,9 +80,5 @@ object Pipelines {
     
     out.show()
     
-    
-    
-    
-    
   }
 }
